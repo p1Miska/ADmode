@@ -1,0 +1,2 @@
+Положи сюда файл ad.gif (или поменяй имя в config/adgif.json -> gifPath).
+Путь должен быть: assets/adgif/textures/gui/ad.gif

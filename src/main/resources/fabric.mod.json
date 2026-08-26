@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "adgif",
+  "version": "${version}",
+  "name": "AdGif Troll Mod",
+  "description": "Randomly shows a fullscreen gif overlay while freezing player input, for 7 seconds, on various triggers.",
+  "authors": ["you"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.trollmods.adgif.AdGifClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "fabric-api": "*",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

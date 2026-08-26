@@ -1,0 +1,2 @@
+Положи сюда файл ad.ogg (звук в формате OGG Vorbis).
+Путь должен быть: assets/adgif/sounds/ad.ogg
